@@ -1,0 +1,2 @@
+{{$aluno->id}}
+{{$aluno->nome}}
